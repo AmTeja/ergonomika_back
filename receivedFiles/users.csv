@@ -1,0 +1,3 @@
+﻿uid,email,passwordHash,passwordSalt
+uid1,user1@example.com,password1Hash,password1Salt
+uid2,user2@example.com,password2Hash,password2Salt
